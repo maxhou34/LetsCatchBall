@@ -1,0 +1,123 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "01b-rm-jok"; */
+"01b-rm-jok.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "SignOut"; ObjectID = "2Ws-3t-TdJ"; */
+"2Ws-3t-TdJ.configuration.title" = "SignOut";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2Ws-3t-TdJ"; */
+"2Ws-3t-TdJ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "63q-C7-jBn"; */
+"63q-C7-jBn.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6RZ-g5-jDl"; */
+"6RZ-g5-jDl.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8Py-Km-AkB"; */
+"8Py-Km-AkB.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9hU-io-tHX"; */
+"9hU-io-tHX.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Aal-V9-oyN"; */
+"Aal-V9-oyN.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DMw-1Z-IgL"; */
+"DMw-1Z-IgL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FA0-cH-x1o"; */
+"FA0-cH-x1o.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HQH-Nx-Uyz"; */
+"HQH-Nx-Uyz.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KCl-b0-Mva"; */
+"KCl-b0-Mva.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Loc-uj-bdT"; */
+"Loc-uj-bdT.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "M7M-2v-iav"; */
+"M7M-2v-iav.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "SignUp"; ObjectID = "PkX-AS-veZ"; */
+"PkX-AS-veZ.configuration.title" = "SignUp";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PkX-AS-veZ"; */
+"PkX-AS-veZ.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Please Enter Your Password"; ObjectID = "Q0L-bK-Rhb"; */
+"Q0L-bK-Rhb.placeholder" = "Please Enter Your Password";
+
+/* Class = "UITextField"; placeholder = "Please Enter Your Email"; ObjectID = "REB-YN-3jg"; */
+"REB-YN-3jg.placeholder" = "Please Enter Your Email";
+
+/* Class = "UITextField"; placeholder = "Please Enter Your Email"; ObjectID = "SAL-cH-SsC"; */
+"SAL-cH-SsC.placeholder" = "Please Enter Your Email";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Sr3-vV-12v"; */
+"Sr3-vV-12v.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U1w-pj-s2t"; */
+"U1w-pj-s2t.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Delete"; ObjectID = "UE5-BO-a3o"; */
+"UE5-BO-a3o.configuration.title" = "Delete";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UE5-BO-a3o"; */
+"UE5-BO-a3o.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XdU-3M-Al0"; */
+"XdU-3M-Al0.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g0c-eU-CU0"; */
+"g0c-eU-CU0.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gTe-4j-7CC"; */
+"gTe-4j-7CC.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hCg-3g-b05"; */
+"hCg-3g-b05.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jvK-Ow-F1R"; */
+"jvK-Ow-F1R.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lHt-HX-C06"; */
+"lHt-HX-C06.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mZe-M7-9RF"; */
+"mZe-M7-9RF.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ne8-SJ-BiZ"; */
+"ne8-SJ-BiZ.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Please Enter Your Password"; ObjectID = "shx-nD-y50"; */
+"shx-nD-y50.placeholder" = "Please Enter Your Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uNJ-Ok-ysc"; */
+"uNJ-Ok-ysc.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "SignIn"; ObjectID = "vjB-Dy-Odu"; */
+"vjB-Dy-Odu.configuration.title" = "SignIn";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vjB-Dy-Odu"; */
+"vjB-Dy-Odu.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Create"; ObjectID = "xa3-MD-aRv"; */
+"xa3-MD-aRv.configuration.title" = "Create";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xa3-MD-aRv"; */
+"xa3-MD-aRv.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Please Enter Your Password Again"; ObjectID = "xs3-8y-Gpn"; */
+"xs3-8y-Gpn.placeholder" = "Please Enter Your Password Again";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yRw-SS-Gfq"; */
+"yRw-SS-Gfq.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ye2-0F-eFY"; */
+"ye2-0F-eFY.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "z9C-8E-4lz"; */
+"z9C-8E-4lz.text" = "Label";

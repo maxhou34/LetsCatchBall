@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  LetsKGB
+
+  Created by Chun on 2023/10/16.
+  
+*/
+
+"Required" = "必填";
+"Confirm Password" = "確認密碼";
+"The Email Format Is Not Valid" = "電子郵件格式無效";
+"The Password Should Be 8 To 12 Characters Long" = "密碼應為8到12個字元長度";
+"The Password Must Contain At Least 1 Digit" = "密碼必須包含至少1個數字";
+"The Password Must Contain At Least 1 Lowercase Letter" = "密碼必須包含至少1個小寫字母";
+"The Password Must Contain At Least 1 Uppercase Letter" = "密碼必須包含至少1個大寫字母";
+"Password Confirmation Does Not Match, Please Reconfirm" = "密碼確認不符合，請重新確認";
+"Are You Sure You Want To Sign Out?" = "您確定要登出嗎?";
+"Are You Sure You Want To Delete Your Account?" = "您確定要刪除您的帳戶嗎?";
+"Account:" = "帳號:";
+"Warning!" = "警告!";
+"Cancel" = "取消";
+"SignOut" = "登出";
+"Delete" = "刪除";
+"Title" = "標題";
+"Time" = "時間";
+"Location" = "地點";
+"Spend" = "費用";
+"Information" = "資訊";

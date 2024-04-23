@@ -1,0 +1,123 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "01b-rm-jok"; */
+"01b-rm-jok.text" = "標籤";
+
+/* Class = "UIButton"; configuration.title = "SignOut"; ObjectID = "2Ws-3t-TdJ"; */
+"2Ws-3t-TdJ.configuration.title" = "登出";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2Ws-3t-TdJ"; */
+"2Ws-3t-TdJ.normalTitle" = "按鈕";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "63q-C7-jBn"; */
+"63q-C7-jBn.text" = "標籤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6RZ-g5-jDl"; */
+"6RZ-g5-jDl.text" = "標籤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8Py-Km-AkB"; */
+"8Py-Km-AkB.text" = "標籤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9hU-io-tHX"; */
+"9hU-io-tHX.text" = "標籤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Aal-V9-oyN"; */
+"Aal-V9-oyN.text" = "標籤";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DMw-1Z-IgL"; */
+"DMw-1Z-IgL.normalTitle" = "按鈕";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FA0-cH-x1o"; */
+"FA0-cH-x1o.text" = "標籤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HQH-Nx-Uyz"; */
+"HQH-Nx-Uyz.text" = "標籤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KCl-b0-Mva"; */
+"KCl-b0-Mva.text" = "標籤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Loc-uj-bdT"; */
+"Loc-uj-bdT.text" = "標籤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "M7M-2v-iav"; */
+"M7M-2v-iav.text" = "標籤";
+
+/* Class = "UIButton"; configuration.title = "SignUp"; ObjectID = "PkX-AS-veZ"; */
+"PkX-AS-veZ.configuration.title" = "註冊";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PkX-AS-veZ"; */
+"PkX-AS-veZ.normalTitle" = "按鈕";
+
+/* Class = "UITextField"; placeholder = "Please Enter Your Password"; ObjectID = "Q0L-bK-Rhb"; */
+"Q0L-bK-Rhb.placeholder" = "請輸入您的密碼";
+
+/* Class = "UITextField"; placeholder = "Please Enter Your Email"; ObjectID = "REB-YN-3jg"; */
+"REB-YN-3jg.placeholder" = "請輸入您的電子郵件";
+
+/* Class = "UITextField"; placeholder = "Please Enter Your Email"; ObjectID = "SAL-cH-SsC"; */
+"SAL-cH-SsC.placeholder" = "請輸入您的電子郵件";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Sr3-vV-12v"; */
+"Sr3-vV-12v.text" = "標籤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U1w-pj-s2t"; */
+"U1w-pj-s2t.text" = "標籤";
+
+/* Class = "UIButton"; configuration.title = "Delete"; ObjectID = "UE5-BO-a3o"; */
+"UE5-BO-a3o.configuration.title" = "刪除";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UE5-BO-a3o"; */
+"UE5-BO-a3o.normalTitle" = "按鈕";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XdU-3M-Al0"; */
+"XdU-3M-Al0.text" = "標籤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g0c-eU-CU0"; */
+"g0c-eU-CU0.text" = "標籤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gTe-4j-7CC"; */
+"gTe-4j-7CC.text" = "標籤";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hCg-3g-b05"; */
+"hCg-3g-b05.normalTitle" = "按鈕";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jvK-Ow-F1R"; */
+"jvK-Ow-F1R.text" = "標籤";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lHt-HX-C06"; */
+"lHt-HX-C06.normalTitle" = "按鈕";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mZe-M7-9RF"; */
+"mZe-M7-9RF.text" = "標籤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ne8-SJ-BiZ"; */
+"ne8-SJ-BiZ.text" = "標籤";
+
+/* Class = "UITextField"; placeholder = "Please Enter Your Password"; ObjectID = "shx-nD-y50"; */
+"shx-nD-y50.placeholder" = "請輸入您的密碼";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uNJ-Ok-ysc"; */
+"uNJ-Ok-ysc.text" = "標籤";
+
+/* Class = "UIButton"; configuration.title = "SignIn"; ObjectID = "vjB-Dy-Odu"; */
+"vjB-Dy-Odu.configuration.title" = "登入";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vjB-Dy-Odu"; */
+"vjB-Dy-Odu.normalTitle" = "按鈕";
+
+/* Class = "UIButton"; configuration.title = "Create"; ObjectID = "xa3-MD-aRv"; */
+"xa3-MD-aRv.configuration.title" = "建立";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xa3-MD-aRv"; */
+"xa3-MD-aRv.normalTitle" = "按鈕";
+
+/* Class = "UITextField"; placeholder = "Please Enter Your Password Again"; ObjectID = "xs3-8y-Gpn"; */
+"xs3-8y-Gpn.placeholder" = "請再次輸入您的密碼";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yRw-SS-Gfq"; */
+"yRw-SS-Gfq.text" = "標籤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ye2-0F-eFY"; */
+"ye2-0F-eFY.text" = "標籤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "z9C-8E-4lz"; */
+"z9C-8E-4lz.text" = "標籤";
